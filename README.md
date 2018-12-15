@@ -1,2 +1,2 @@
 # BigdataDocuments
-Technical documentation on bid data
+Technical documentation on big data
